@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVslGL07+lGyIEd2ISKHjbkize096lAPE1QFeQvrtBjgOc47fKmj8csuo9tpMEWOb8Db9fKtz+uKPiNQEXowtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edvin.tsygankov\\Documents\\Programmering\\Graphical\\visual\\Visual.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edvin.tsygankov\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
+    "C:\\Users\\edvin.tsygankov\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
